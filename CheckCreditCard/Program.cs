@@ -11,12 +11,10 @@ namespace CheckCreditCard
             if (choice == 1)
             {
                 CheckCreditCardNumberwithREGEX checkCreditCardNumberwithREGEX = new CheckCreditCardNumberwithREGEX();
-
             }
             else if (choice == 2)
             {
                 CheckCreditCardNumber checkCreditCardNumber = new CheckCreditCardNumber();
-
             }
             else
             {
